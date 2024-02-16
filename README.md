@@ -1,7 +1,7 @@
 # VALAIVI-Responsive-E-commerce-website
 VALAIVI is an e-commerce responsive website built to sell products online. it is only front end based displaying different products
 
-Demo https:https://drive.google.com/file/d/1IThAL6E0jvljixZ8PFRJSDXdAAuDL61l/view?usp=drive_link
+Demo https://drive.google.com/file/d/1IThAL6E0jvljixZ8PFRJSDXdAAuDL61l/view?usp=sharing
 
 This is built using HTML, CSS and Bootstrap. It is showcasing products to sell online. A simple website with fledged CSS. 
 
